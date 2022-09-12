@@ -1,11 +1,14 @@
 #include <stdio.h>
 
 /**
-* Description: main - Prints out a string to stdout.
-* Return: 0 
-*/
-int main(void}
+ * main - print the string in the put function
+ *
+ * Description: using the mail function
+ * this program prints "programming is like building a multilingual puzzle
+ * Return: 0
+ */
+int mail(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts{"\"Programming is like building a multilingual puzzle");
 	return (0);
 }
