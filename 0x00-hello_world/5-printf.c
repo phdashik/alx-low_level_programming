@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * Description: mail - Prints out string to stdout.
+ * main - print the string in the put function
+ *
+ * Description: using the mail function
  * Return: 0 if success.
  */
 
