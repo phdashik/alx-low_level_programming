@@ -4,7 +4,7 @@
  * main - Print the string inthe put function
  *
  * Description: using the main function
- * this program prints he size of various types on the computer 
+ * this program prints he size of various types on the computer
  * Return: Always 0 (success)
  */
 int main(void)
